@@ -11,3 +11,6 @@ Clone of the Addictive Game Flappy Bird. Used JavaScript, Canvas and HTML5
 - Vanilla Javascript for overall structure and create an interactive game
 - HTML5 Canvas to render game components (bird, background, pipes)
 - Webpack to bundle scripts into a single source
+
+
+![alt text](sample-game.gif)
