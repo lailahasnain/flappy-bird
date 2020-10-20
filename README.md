@@ -1,6 +1,8 @@
 # flappy-bird
 Clone of the Addictive Game Flappy Bird. Used JavaScript, Canvas and HTML5
 
+# Live Site
+https://lailahasnain.github.io/flappy-bird/
 
 # Background
 - Animate the bird and background by utilizing sprite sheet on HTML5 canvas for dynamic and smooth rendering
