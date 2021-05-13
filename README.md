@@ -6,7 +6,7 @@ https://lailahasnain.github.io/flappy-bird/
 
 # Background
 - Animate the bird and background by utilizing sprite sheet on HTML5 canvas for dynamic and smooth rendering
-- Simulate flying physics and collision detection with platform rendering that efficiently updates game state
+- Simulate collision detection with platform rendering that efficiently updates game state
 
 
 # Architecture and Technologies 
